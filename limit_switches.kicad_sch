@@ -2024,7 +2024,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Matts_library:JST_PA_2_pin")
 		(lib_id "Matts_library:JST_PA_2_pin")
 		(at 101.6 106.68 0)
 		(mirror y)
@@ -3533,7 +3532,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Matts_library:JST_PA_2_pin")
 		(lib_id "Matts_library:JST_PA_2_pin")
 		(at 154.94 78.74 0)
 		(mirror y)
@@ -3740,7 +3738,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Matts_library:JST_PA_2_pin")
 		(lib_id "Matts_library:JST_PA_2_pin")
 		(at 101.6 134.62 0)
 		(mirror y)
@@ -3815,7 +3812,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Matts_library:JST_PA_2_pin")
 		(lib_id "Matts_library:JST_PA_2_pin")
 		(at 154.94 50.8 0)
 		(mirror y)
@@ -4300,7 +4296,6 @@
 		)
 	)
 	(symbol
-		(lib_name "Matts_library:JST_PA_2_pin")
 		(lib_id "Matts_library:JST_PA_2_pin")
 		(at 101.6 78.74 0)
 		(mirror y)
